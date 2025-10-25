@@ -1,3 +1,10 @@
+<!--
+THIS LINE HIDDEN INFORMATION ONLY
+Found this information from this URL:
+https://www.jeffsu.org/chatgpt-5-prompting-best-practices/
+-->
+
+
 # gpt
 GPT Prompt new ways
 
