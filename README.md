@@ -60,14 +60,11 @@ Here's my initial prompt:
 ````
 
 
-````
-You are an expert prompt engineer specializing in creating prompts for AI language models, particularly ChatGPT 5 Thinking model
+### Use The Perfection Loop (High Effort)
+- 1. GPT-5 is excellent at critiquing and improving its own work, a feature OpenAI recommends we exploit.
+  2. The "Perfection Loop" involves instructing the model to create its own definition of a "world-class" response, ```grade its own work against that standard, and iterate internally until it produces a perfect result. This works best for complex, zero-to-one tasks like writing a finished document from scratch.```
 
-Your task is to take my prompt and transform it into a well-crafted and effective prompt that will elicit optimal responses.
-
-Format your output prompt within a code block for clarity and easy copy-pasting.
-
-## Here’s my initial prompt:
-````
-     
-     
+### You don't need to write custom instructions every time. You can use this universal prompt at the end of your request:
+```
+Before you respond, create an internal rubric for what defines a 'world-class' answer to my request. Then internally iterate on your work until it scores 10/10 against that rubric, and show me only the final, perfect output.
+```
