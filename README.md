@@ -46,3 +46,8 @@ GPT Prompt new ways
 - ### **Effort: High-verbosity outputs are great for comprehensive documents like project briefs, research summaries, or reference materinals for multiple teams.**
   1. *Example: Ask Chatpgt with prompt: ____"Generate a project brief for an internal team kick-off. The project is a complete overhaul of Powershell script code for exchange login."____*
      - *Then add in the prompt: ____"Provide a comprehensive and details breakdown (600-800 words)."____*
+    
+
+
+
+### Tip for using Optimize for GPT-5 url: https://platform.openai.com/chat/edit?models=gpt-5&optimize=true
