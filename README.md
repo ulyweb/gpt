@@ -51,4 +51,4 @@ GPT Prompt new ways
 
 
 ### Tip for using Optimize for GPT-5 url: https://platform.openai.com/chat/edit?models=gpt-5&optimize=true
-- 1. Or use this prompt: "You are an expert prompt engineer specializing in creating prompts for AI language models, particularly '[model]'
+- 1. Or use this prompt: "You are an expert prompt engineer specializing in creating prompts for AI language models, particularly ChatGPT 5 Thinking model."
