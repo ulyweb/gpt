@@ -2,6 +2,8 @@
 THIS LINE HIDDEN INFORMATION ONLY
 Found this information from this URL:
 https://www.jeffsu.org/chatgpt-5-prompting-best-practices/
+or the URL
+https://www.youtube.com/watch?v=iRTK-jsfleg&t=129s
 -->
 
 
